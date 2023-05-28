@@ -1,0 +1,89 @@
+[11-Aug-2022 11:19:07] PHP Notice:  Undefined index:  code in /home/vhimtnya/rechecker.cc/btc/app/getprice.php on line 4
+[22-Aug-2022 08:34:18 America/New_York] PHP Warning:  include_once(/../includes/global.php): failed to open stream: No such file or directory in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:18 America/New_York] PHP Warning:  include_once(): Failed opening '/../includes/global.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:34 America/New_York] PHP Warning:  include_once(../includes/global.php): failed to open stream: No such file or directory in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:34 America/New_York] PHP Warning:  include_once(): Failed opening '../includes/global.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:41 America/New_York] PHP Warning:  include_once(/includes/global.php): failed to open stream: No such file or directory in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:41 America/New_York] PHP Warning:  include_once(): Failed opening '/includes/global.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:47 America/New_York] PHP Warning:  include_once(includes/global.php): failed to open stream: No such file or directory in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:34:47 America/New_York] PHP Warning:  include_once(): Failed opening 'includes/global.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 4
+[22-Aug-2022 08:35:25 America/New_York] PHP Notice:  Undefined variable: config in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:25 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:25 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:25 America/New_York] PHP Notice:  Undefined variable: data_sql in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 73
+[22-Aug-2022 08:35:25 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 73
+[22-Aug-2022 08:35:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 08:35:42 America/New_York] PHP Notice:  Undefined variable: config in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:42 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:42 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:35:42 America/New_York] PHP Notice:  Undefined variable: data_sql in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 73
+[22-Aug-2022 08:35:42 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 73
+[22-Aug-2022 08:35:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 08:37:09 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:37:09 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:37:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 08:46:21 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:46:21 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 08:46:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 09:03:08 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 09:03:08 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 09:03:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 09:03:10 America/New_York] PHP Notice:  Undefined variable: address in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 09:03:10 America/New_York] PHP Notice:  Undefined variable: paymentid in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 72
+[22-Aug-2022 09:03:10 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 67
+[22-Aug-2022 09:04:52 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:05:42 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:05:45 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:06:05 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:06:06 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:06:29 America/New_York] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'The "template" directory does not exist.' in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php:93
+Stack trace:
+#0 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(75): Twig_Loader_Filesystem->addPath('template', '__main__')
+#1 /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php(33): Twig_Loader_Filesystem->setPaths('template')
+#2 /home/vhimtnya/rechecker.cc/btc/app/index.php(9): Twig_Loader_Filesystem->__construct('template')
+#3 {main}
+  thrown in /home/vhimtnya/rechecker.cc/lib/Twig/Loader/Filesystem.php on line 93
+[22-Aug-2022 09:10:56 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:10:57 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:10:58 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:10:59 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:12:23 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:15:06 America/New_York] PHP Fatal error:  Call to undefined function db_connection() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 12
+[22-Aug-2022 09:16:41 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 199
+[22-Aug-2022 09:16:43 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 199
+[22-Aug-2022 09:17:53 America/New_York] PHP Notice:  Undefined variable: config in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 20
+[22-Aug-2022 09:17:53 America/New_York] PHP Notice:  Undefined variable: config in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 40
+[22-Aug-2022 09:17:53 America/New_York] PHP Fatal error:  Call to undefined function db_close() in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 200
+[22-Aug-2022 09:19:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 264
+[22-Aug-2022 09:19:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 264
+[22-Aug-2022 09:19:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vhimtnya/rechecker.cc/btc/app/index.php on line 265

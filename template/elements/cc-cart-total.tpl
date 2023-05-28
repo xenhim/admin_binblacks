@@ -1,0 +1,1 @@
+<ul class="list-unstyled amounts"><li><h3>Total Cards: {{cards}}</h3></li><li><h3>Total Price: ${{price}}</h3></li></ul>

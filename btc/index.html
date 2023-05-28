@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  	<title>Coupon Code Generator</title>
+
+<center><div class="page-header"><h1>Add Voucher<small></small></h1>
+<div class='panel panel-default' style='width:600px'><div class='panel-heading'>Add Voucher</div>
+<table class='table table-bordered table-striped'>
+    
+<form method="POST" action="save_coupon.php?act=couponcode">
+<div class="row">
+<div class="col-xs-12">
+<div class="form-group">
+<label><b style="font-family: Montserrat;font-weight: bold;">Have a Voucher code?</b></label>
+<input placeholder='Voucher code' id="couponcode" name="couponcode" type="text" class="form-control">
+<br><button onclick="depositcp();">Apply</button><br>
+</div>
+<!--
+<div id="couponcode" ng-show="coupon_applied" class="hide">
+<p>Thank you, your coupon has been applied!</p>
+-->
+</div>
+</div>
+</div>
+</form>
+</table>
+</div>
+</center>
+	<!-- Must put our javascript files here to fast the page loading -->
+	
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<!-- Bootstrap JS -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<!-- Sweetalert2 JS -->
+	<script src="assets/plugins/sweetalert2/sweetalert2.min.js"></script>
+	<!-- Page Script -->
+	<script src="assets/js/scripts.js"></script>
+
+</body>
+  
+</html>

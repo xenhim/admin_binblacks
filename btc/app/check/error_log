@@ -1,0 +1,15 @@
+[03-Aug-2022 22:26:53] PHP Notice:  Undefined index:  txid in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 15
+[03-Aug-2022 22:26:53] PHP Notice:  Undefined index:  value in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 16
+[03-Aug-2022 22:26:53] PHP Notice:  Undefined index:  status in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 17
+[03-Aug-2022 22:26:53] PHP Notice:  Undefined index:  addr in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 18
+[03-Aug-2022 22:26:53] PHP Notice:  Undefined index:  secret in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 19
+[03-Aug-2022 22:36:23] PHP Notice:  Undefined index:  txid in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 15
+[03-Aug-2022 22:36:23] PHP Notice:  Undefined index:  value in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 16
+[03-Aug-2022 22:36:23] PHP Notice:  Undefined index:  status in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 17
+[03-Aug-2022 22:36:23] PHP Notice:  Undefined index:  addr in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 18
+[03-Aug-2022 22:36:23] PHP Notice:  Undefined index:  secret in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 19
+[24-Aug-2022 22:50:15 America/New_York] PHP Notice:  Undefined index: txid in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 15
+[24-Aug-2022 22:50:15 America/New_York] PHP Notice:  Undefined index: value in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 16
+[24-Aug-2022 22:50:15 America/New_York] PHP Notice:  Undefined index: status in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 17
+[24-Aug-2022 22:50:15 America/New_York] PHP Notice:  Undefined index: addr in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 18
+[24-Aug-2022 22:50:15 America/New_York] PHP Notice:  Undefined index: secret in /home/vhimtnya/rechecker.cc/btc/app/check/index.php on line 19
